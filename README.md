@@ -1,5 +1,5 @@
 # Predicting-Stock-Prices
-Predicting Stock Prices 30 days in the future with Machine Learning
+
 ![prediction](https://thecodex.me/static/d8d6e094a56079173e80adbacadc2227/predict-gif-small.gif.gif)
 
 ## Présentation
